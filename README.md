@@ -1,5 +1,5 @@
-# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? The client was The Gaming Room. 
-The client had a game available via Android called Draw It or Lose it and was seeking to make it multi-platform with improved software functionality. 
+# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
+The client was The Gaming Room. The client had a game available via Android called Draw It or Lose it and was seeking to make it multi-platform with improved software functionality. 
 # What did you do particularly well in developing this documentation?
 In developing the documentation, I researched and organized all the requirements and recommendations needed for this project.
 # What about the process of working through a design document did you find helpful when developing the code?
